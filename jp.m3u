@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",NHK G
+http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",NHK E
+http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",Nippon TV
+http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",TV Asahi
+http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",TBS
+http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",TV Tokyo
+http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",Fuji TV
+http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",Tokyo MX 1
+http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="Local",NHK BS Premium (BS103)
+http://203.162.235.41:16910
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="Local",NHK BS1 (BS101)
+http://203.162.235.41:16909
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="Local",BS Asahi
+http://203.162.235.41:16914
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="Local",BS Fuji (BS181)
+http://203.162.235.41:16911
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TV_Tokyo_logo_20110629.svg" group-title="Local",BS TV Tokyo (BS171)
+http://203.162.235.41:16915
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Movies",Animax Japan (720p)
+http://180.92.158.208:9981/stream/channelid/806982131
