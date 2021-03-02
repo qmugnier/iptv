@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U: tvg-shift="8"
 #EXTINF:-1 tvg-id="NHK G" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-general-tv-jp.png" group-title="General",NHK G
 http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
 #EXTINF:-1 tvg-id="NHK E" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-educational-tv-jp.png" group-title="General",NHK E
