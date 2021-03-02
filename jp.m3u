@@ -23,7 +23,7 @@ http://203.162.235.41:16910
 http://203.162.235.41:16911
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-nippon-tv-jp.png" group-title="BS",BS NipponTV
 http://203.162.235.41:16912
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.pngs" group-title="BS",BS TBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.png" group-title="BS",BS TBS
 http://203.162.235.41:16913
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_asahi.png" group-title="BS",BS Asahi
 http://203.162.235.41:16914
