@@ -1,33 +1,33 @@
-#EXTM3U: tvg-shift="8"
-#EXTINF:-1 tvg-id="NHK G" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-general-tv-jp.png" group-title="General",NHK G
+#EXTM3U
+#EXTINF:-1 tvg-id="NHK G" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-general-tv-jp.png" group-title="General",NHK G
 http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
-#EXTINF:-1 tvg-id="NHK E" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-educational-tv-jp.png" group-title="General",NHK E
+#EXTINF:-1 tvg-id="NHK E" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-educational-tv-jp.png" group-title="General",NHK E
 http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8
-#EXTINF:-1 tvg-id="Nippon TV" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nippon-tv-jp.png" group-title="General",Nippon TV
+#EXTINF:-1 tvg-id="Nippon TV" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nippon-tv-jp.png" group-title="General",Nippon TV
 http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
-#EXTINF:-1 tvg-id="TV Asahi" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-asahi-jp.png" group-title="General",TV Asahi
+#EXTINF:-1 tvg-id="TV Asahi" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-asahi-jp.png" group-title="General",TV Asahi
 http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/320px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="General",TBS
+#EXTINF:-1 tvg-id="TBS" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/320px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="General",TBS
 http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8
-#EXTINF:-1 tvg-id="TV Tokyo" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/320px-TV_Tokyo_logo_20110629.svg.png" group-title="General",TV Tokyo
+#EXTINF:-1 tvg-id="TV Tokyo" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/320px-TV_Tokyo_logo_20110629.svg.png" group-title="General",TV Tokyo
 http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
-#EXTINF:-1 tvg-id="Fuji TV" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/256px-Fuji_TV_logo.svg.png" group-title="General",Fuji TV
+#EXTINF:-1 tvg-id="Fuji TV" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/256px-Fuji_TV_logo.svg.png" group-title="General",Fuji TV
 http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8
-#EXTINF:-1 tvg-id="Tokyo MX 1" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/320px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="General",Tokyo MX 1
+#EXTINF:-1 tvg-id="Tokyo MX 1" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/320px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="General",Tokyo MX 1
 http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8
-#EXTINF:-1 tvg-id="NHK BS1" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-bs-1-jp.png" group-title="BS",NHK BS1
+#EXTINF:-1 tvg-id="NHK BS1" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-bs-1-jp.png" group-title="BS",NHK BS1
 http://203.162.235.41:16909
-#EXTINF:-1 tvg-id="NHK BS Premium" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-bs-premium-jp.png" group-title="BS",NHK BS Premium
+#EXTINF:-1 tvg-id="NHK BS Premium" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-bs-premium-jp.png" group-title="BS",NHK BS Premium
 http://203.162.235.41:16910
-#EXTINF:-1 tvg-id="BS Fuji" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_fuji.png" group-title="BS",BS Fuji
+#EXTINF:-1 tvg-id="BS Fuji" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_fuji.png" group-title="BS",BS Fuji
 http://203.162.235.41:16911
-#EXTINF:-1 tvg-id="BS NipponTV" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-nippon-tv-jp.png" group-title="BS",BS NipponTV
+#EXTINF:-1 tvg-id="BS NipponTV" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-nippon-tv-jp.png" group-title="BS",BS NipponTV
 http://203.162.235.41:16912
-#EXTINF:-1 tvg-id="BS TBS" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.png" group-title="BS",BS TBS
+#EXTINF:-1 tvg-id="BS TBS" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.png" group-title="BS",BS TBS
 http://203.162.235.41:16913
-#EXTINF:-1 tvg-id="BS Asahi" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_asahi.png" group-title="BS",BS Asahi
+#EXTINF:-1 tvg-id="BS Asahi" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_asahi.png" group-title="BS",BS Asahi
 http://203.162.235.41:16914
-#EXTINF:-1 tvg-id="BS TV Tokyo" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" group-title="BS",BS TV Tokyo
+#EXTINF:-1 tvg-id="BS TV Tokyo" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" group-title="BS",BS TV Tokyo
 http://203.162.235.41:16915
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png" group-title="Anime",Animax Japan (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="+8" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png" group-title="Anime",Animax Japan (720p)
 http://180.92.158.208:9981/stream/channelid/806982131
