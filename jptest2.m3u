@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png" group-title="France",TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
 #EXTINF:-1 tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/35px-France_2_2018.svg.png" group-title="France",France 2
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8
 #EXTINF:-1 tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/35px-France_3_2018.svg.png" group-title="France",France 3
-https://mmsiptv.com/live/france3/playlist.m3u8
+http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
 #EXTINF:-1 tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/35px-France_5_2018.svg.png" group-title="France",France 5
-https://mmsiptv.com/live/france5/playlist.m3u8
+http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8
 #EXTINF:-1 tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/49px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="France",M6
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8
 #EXTINF:-1 tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7d/Logo_C8.svg/49px-Logo_C8.svg.png" group-title="France",C8
-https://mmsiptv.com/live/c8/playlist.m3u8
+http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
 #EXTINF:-1 tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/56px-W9_2018.svg.png" group-title="France",W9
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8
+http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8
 #EXTINF:-1 tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/62px-TMC_logo_2016.svg.png" group-title="France",TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8
