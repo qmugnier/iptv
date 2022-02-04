@@ -101,5 +101,5 @@ http://50.7.74.29:8880/hlsok/j00023/index.m3u8
 http://50.7.74.29:8880/hlsok/j00052/index.m3u8
 #EXTINF:-1 tvg-id="Disneyjunior" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png" group-title="Animation",Disney Junior
 http://50.7.74.29:8880/hlsok/j00016/index.m3u8
-#EXTINF:-1 tvg-id="Catoonnetwork" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/langfr-320px-Cartoon_Network_2010_logo.svg.png group-title="Animation",Cartoon Network
+#EXTINF:-1 tvg-id="Catoonnetwork" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/langfr-320px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network
 http://50.7.74.29:8880/hlsok/j00024/index.m3u8
