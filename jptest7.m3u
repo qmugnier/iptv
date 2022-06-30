@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NHK G" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-general-tv-jp.png" group-title="General",NHK G Tokyo
-http://51.79.193.108:8080/hlsok/j00033/index.m3u8
+https://nhk2.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="NHK E" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-educational-tv-jp.png" group-title="Education",NHK E 1
 http://51.79.193.108:8080/hlsok/j00034/index.m3u8
 #EXTINF:-1 tvg-id="NHK E 3" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-educational-tv-jp.png" group-title="Education",NHK E 3
 http://51.79.193.108:8080/hlsok/j00035/index.m3u8
 #EXTINF:-1 tvg-id="Nippon TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nippon-tv-jp.png" group-title="General",Nippon TV
-http://51.79.193.108:8080/hlsok/j00004/index.m3u8
+https://ntv2.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="TV Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-asahi-jp.png" group-title="General",TV Asahi
 http://51.79.193.108:8080/hlsok/j00014/index.m3u8
 #EXTINF:-1 tvg-id="TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/320px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="General",TBS
-http://51.79.193.108:8080/hlsok/j00031/index.m3u8
+https://tbs1.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/320px-TV_Tokyo_logo_20110629.svg.png" group-title="General",TV Tokyo
 http://51.79.193.108:8080/hlsok/j00012/index.m3u8
 #EXTINF:-1 tvg-id="Fuji TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/256px-Fuji_TV_logo.svg.png" group-title="General",Fuji TV
-http://51.79.193.108:8080/hlsok/j00010/index.m3u8
+https://fujitv2.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="Tokyo MX 1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX1
-http://51.79.193.108:8080/hlsok/j00030/index.m3u8
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 tvg-id="NHK G Osaka" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-general-tv-jp.png" group-title="Local",NHK G Osaka
 http://51.79.193.108:8080/hlsok/j00032/index.m3u8
 #EXTINF:-1 tvg-id="MBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/320px-Mainichi_Broadcasting_System_logo.svg.png?uselang=fr" group-title="Local",MBS
